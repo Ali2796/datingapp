@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "269869564842",
+    "project_id": "dating-app-4a027",
+    "storage_bucket": "dating-app-4a027.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269869564842:android:c9820a4c659b9b4951e1d3",
+        "android_client_info": {
+          "package_name": "com.jabwemet.wheremuslimsmeet.dating_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269869564842-ts8p7a3hea54ls3n54ug1lg75q9r8eg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jabwemet.wheremuslimsmeet.dating_app",
+            "certificate_hash": "fc4388737bd7d01be6ccca7c9b5436544fa7d3a9"
+          }
+        },
+        {
+          "client_id": "269869564842-fo36t6vt9gmg4s7mu9jc4ouk031j9nj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQd3Qmw8GTOnHXDPmHAb0xinTGDdxa9fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269869564842-fo36t6vt9gmg4s7mu9jc4ouk031j9nj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
